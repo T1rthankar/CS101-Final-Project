@@ -1,0 +1,7 @@
+*.o
+.VSCodeCounter/*
+lasso
+test
+instructions_test
+.high_scores.txt
+test_scores.txt
